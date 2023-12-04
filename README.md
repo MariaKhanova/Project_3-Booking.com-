@@ -1,4 +1,4 @@
-<img src= https://yur-gazeta.ru/wp-content/uploads/2022/05/scale_1200-4.png>
+<img src= [https://yur-gazeta.ru/wp-content/uploads/2022/05/scale_1200-4.png](https://gitlab.com/uploads/-/system/project/avatar/30915221/252_booking_logo.jpg)>
 
 # Проект: Оценки отелей на Booking.com
 
