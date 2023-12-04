@@ -1,8 +1,9 @@
-<img src= https://yur-gazeta.ru/wp-content/uploads/2022/05/scale_1200-4.png](https://gitlab.com/uploads/-/system/project/avatar/30915221/252_booking_logo.jpg>
+![bookingcom](https://github.com/MariaKhanova/Project_3-Booking.com-/assets/141752892/713c0926-596e-4ed9-96f3-bf6e4bec3a16)
 
 # Проект: Оценки отелей на Booking.com
 
 ## Оглавление
+
 1. Описание проекта
 2. Какой кейс решаем?
 3. Этапы работы над проектом
